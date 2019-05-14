@@ -1,0 +1,9 @@
+# Directories
+.git/
+.vs/
+bin/
+bin-int/
+Hazel.VC.db/
+
+# Files
+*.user
